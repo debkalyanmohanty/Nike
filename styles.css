@@ -1,0 +1,57 @@
+body{
+    background-color:black ;
+}
+.Air{
+    color: white;
+    text-align: left;
+    display: table-cell;
+    vertical-align: inherit;
+
+}
+nav{
+  
+    color: white;
+    text-align: center;
+    
+
+}
+img{
+    background-color: black;
+    size: 50%;
+}
+a{
+    color: white;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+.heading2{
+    font-size:50px ;
+}
+/* .Takes{
+    background-color: grey;
+    transform: rotate(90deg);
+    width: 1000px;
+    height: 50px ;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    align-content: initial;
+} */
+input{
+    background-color: rgb(186, 185, 185);
+    font-family: fantasy;
+    height: 50px;
+    width:200px;   
+    border-radius: 15px;
+    font-size: 20px;
+    
+}
+/* .Over{
+width: min-content;
+height: min-content;
+padding: 0;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} */
