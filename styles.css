@@ -1,17 +1,28 @@
 body{
     background-color:black ;
 }
-.Air{
+table{
+    border-spacing: 50px ;
+}
+tr{
+    border-left: 100px;
+}
+td{
     color: white;
     text-align: left;
-    display: table-cell;
-    vertical-align: inherit;
+    /* display: table-cell; */
+    /* vertical-align: inherit; */
+    /* width: 100%;
+    height:100% */
+
 
 }
 nav{
   
     color: white;
     text-align: center;
+   
+    vertical-align: middle;
     
 
 }
@@ -28,16 +39,16 @@ a{
 .heading2{
     font-size:50px ;
 }
-/* .Takes{
+  .Takes{  
     background-color: grey;
     transform: rotate(90deg);
-    width: 1000px;
-    height: 50px ;
+    transform-origin: 0%;
+    width: 40%;
+    height:70px;
     text-align: center;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    align-content: initial;
-} */
+   
+    color: white;
+ }  
 input{
     background-color: rgb(186, 185, 185);
     font-family: fantasy;
@@ -54,4 +65,15 @@ padding: 0;
 color: white;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
+} */
+/* div{
+    background-color: grey;
+    transform: rotate(90deg);
+    width: 1000px;
+    height: 50px ;
+    text-align: center;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    align: left;
 } */
