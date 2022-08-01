@@ -46,7 +46,8 @@ a{
     width: 40%;
     height:70px;
     text-align: center;
-    display:absolute;
+    position:absolute;
+    top:0;
     color: white;
  }  
 input{
